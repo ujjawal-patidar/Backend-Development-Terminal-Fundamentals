@@ -100,6 +100,10 @@ git commit -m "message"
 
 10. nano/vi/jed file_name     , to edit in the file
 
+11. grep "string you want to search" file_name       , to search the particular string in the file it will output it all
+
+12. export VARIABLE_NAME=value    , to set env variables in the system 
+
 
 **Process handling Commands**
 1. *ps aux*    , process status, current running processes
