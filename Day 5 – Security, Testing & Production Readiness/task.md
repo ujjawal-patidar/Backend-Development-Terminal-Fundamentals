@@ -62,7 +62,6 @@ Bcrypt works as follows:
 
 
 
-
 ### CORS
 Cross-Origin Resource Sharing (CORS) is a browser security mechanism that controls how a web application running on one origin (domain, protocol, or port) can request resources from a different origin. By default, browsers block such cross-origin requests to prevent unauthorized access to sensitive data. CORS provides a controlled way to enable intentional sharing of resources with trusted third-party domains through specific HTTP headers.
 
